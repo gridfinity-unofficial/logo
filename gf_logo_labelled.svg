@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1024"
-   height="1024"
-   viewBox="0 0 270.93333 270.93333"
+   width="1000"
+   height="600"
+   viewBox="0 0 264.58333 158.75"
    version="1.1"
    id="svg275"
-   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
-   sodipodi:docname="gf_temp_logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="gf_logo_labelled.svg"
    inkscape:export-filename="gf_temp_logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -30,12 +30,13 @@
      inkscape:zoom="0.75455247"
      inkscape:cx="306.14173"
      inkscape:cy="564.57306"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="1231"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2" />
   <defs
      id="defs272" />
   <g
@@ -47,8 +48,8 @@
        id="rect3586"
        width="60.670837"
        height="92.97718"
-       x="-127.76914"
-       y="138.38319"
+       x="-81.483429"
+       y="133.82475"
        ry="26.274658"
        transform="rotate(-90)" />
     <rect
@@ -56,18 +57,19 @@
        id="rect3528"
        width="60.670837"
        height="92.97718"
-       x="-127.76914"
-       y="39.69157"
+       x="-81.483429"
+       y="35.133129"
        ry="26.274658"
        transform="rotate(-90)" />
     <path
        style="fill:#007012;fill-opacity:1;stroke:#004d13;stroke-width:20.1416;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 190.9347,97.125674 h 29.72642"
+       d="m 186.37626,50.839959 h 29.72642"
        id="path3532" />
     <g
        aria-label="gridfinity"
        id="text525"
-       style="font-size:25.4px;font-family:'Karnivore Lite';-inkscape-font-specification:'Karnivore Lite';letter-spacing:5.91079px;fill:#1cff55;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round">
+       style="font-size:25.4px;font-family:'Karnivore Lite';-inkscape-font-specification:'Karnivore Lite';letter-spacing:5.91079px;fill:#1cff55;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       transform="translate(-4.5584415,-46.285715)">
       <path
          d="m 60.906215,154.59439 v 10.2108 h -11.1252 l -1.524,-1.5494 v -14.732 l 1.524,-1.5494 h 11.1252 v 2.5654 h -10.0838 v 12.7 h 7.5184 v -5.0546 h -3.0988 v -2.5908 z"
          id="path294" />
@@ -102,7 +104,8 @@
     <g
        aria-label="catalog"
        id="text951"
-       style="font-size:25.4px;font-family:'Karnivore Lite';-inkscape-font-specification:'Karnivore Lite';letter-spacing:5.91079px;fill:#1cff55;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round">
+       style="font-size:25.4px;font-family:'Karnivore Lite';-inkscape-font-specification:'Karnivore Lite';letter-spacing:5.91079px;fill:#1cff55;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       transform="translate(-4.5584415,-46.285715)">
       <path
          d="m 80.586989,190.29173 v 2.5654 h -11.176 l -1.524,-1.5494 v -14.732 l 1.524,-1.5494 h 11.176 v 2.5654 h -10.1346 v 12.7 z"
          id="path417" />

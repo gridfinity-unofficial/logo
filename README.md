@@ -5,4 +5,5 @@ The logo of Gridfinity-Unofficial made by @machenna (discord) with the license <
 
 # Colors
 Dark Green: \#004d13 color RGB value is (0,77,19)
+
 Lighter Green: \#1cff55 color RGB value is (28,255,85)
